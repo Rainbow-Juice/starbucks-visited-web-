@@ -1,0 +1,67 @@
+設計書（開発者向け）
+技術構成
+
+フロントエンド: React 18
+
+ルーティング: react-router-dom v6
+
+UIアイコン: react-icons
+
+状態管理: React Context API (StoresContext)
+
+ビルドツール: Vite
+
+ページ構成
+
+/
+
+ホーム画面（訪問状況サマリー・店舗検索ボタン・都道府県別一覧）
+
+/search
+
+店舗検索ページ（条件絞り込み・店舗一覧表示）
+
+/settings
+
+設定画面（テーマ設定、リセットなど）
+
+/store/:id
+
+店舗詳細ページ（住所、訪問状況、お気に入り設定）
+
+コンポーネント
+
+Home.jsx
+訪問状況、都道府県別リスト、店舗検索ボタン
+
+StoreSearch.jsx
+検索フォーム、都道府県・市区町村選択、絞り込み、結果表示
+
+StoreDetail.jsx
+店舗詳細・訪問記録
+
+Settings.jsx
+設定画面
+
+HelpTooltip.jsx
+説明ポップアップ表示
+
+データ構造（店舗）
+{
+  "id": "string",
+  "name": "string",
+  "prefecture": "string",
+  "city": "string",
+  "streetAddress": "string",
+  "building": "string",
+  "zipcode": "string",
+  "visited": true,
+  "favorite": false,
+  "closed": false
+}
+
+ソート仕様
+
+都道府県：prefectureOrder に従った固定順
+
+市区町村：郵便番号昇順

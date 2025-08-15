@@ -1,0 +1,3385 @@
+ID: 576f5db5-1444-4323-9e73-53652ed11a36
+  name: 木場イトーヨーカドー店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 577f91c3-1795-4c62-a1db-375394fe661b
+  name: GINZA SIX店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 57d1dd2f-7780-41bf-92d9-bf5cc81524c9
+  name: 札幌石山店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: 57eb487e-a3dd-4c0b-b0d9-d297202d03e1
+  name: 東武池袋店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 57edbbcd-9350-49b2-b37c-ccfddf16f0a5
+  name: ちはら台モール店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 5809d927-ec57-4405-a753-621d8a1fd988
+  name: 大和オークシティ店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 583ce224-b736-4ff0-9bc9-384e1db73a67
+  name: カインズ熊谷籠原店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 5862c14c-b3c9-4822-817d-4757aeec2efd
+  name: イオンタウン能代店
+  prefecture: 秋田県
+  visited: false
+----------------------
+ID: 587223d1-4c44-4cfc-96d3-ee46174c6201
+  name: 新潟中野山店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: 589e9a29-202a-45c2-9a51-68f4fa1c96fd
+  name: スターバックス ティバーナストア 銀座マロニエ通り
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 58a8c210-fe15-438c-956c-c9a2157b06a8
+  name: フレンテ南大沢店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 59b00978-d416-4ad3-a6c7-28f2cc0e21a6
+  name: 霞ダイニング店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 59b87054-86a6-44f2-92e1-064e39ab3f7e
+  name: 昭島駅前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 59c5bb50-cded-459d-b136-2466422a36ec
+  name: アズ熊谷店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 5a69c3fb-3a8c-4685-a3ef-2e4526d7fb61
+  name: イオンモール高崎 2階店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: 5a8874d7-b2b3-4164-879a-75ddb45a3472
+  name: 津田沼ビート店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 5ae7f533-43e5-4e85-81f6-671557b8ea9c
+  name: 青森中央店
+  prefecture: 青森県
+  visited: false
+----------------------
+ID: 5af124ac-e5ee-4376-a64f-6d441d9b8541
+  name: 小田急アコルデ新百合ヶ丘北館店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 5af87864-3836-43eb-bbd8-25b101e744a5
+  name: グランスタ丸の内店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 5b5b9311-0591-46e8-ad35-df35a4e97eb7
+  name: ベイシア富里店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 5bcbc5e9-3ea2-4dce-a166-cef5eddf5613
+  name: イオンモール土浦店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 5bcda587-1b0a-4460-a868-6d1fb919fb93
+  name: 麻布台ヒルズ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 5c2e38e8-6960-49ee-8b54-e92ec6ff631a
+  name: 富岡店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: 5c4a57f1-3043-45a8-ad8b-792d70df837d
+  name: 福島鎌田店
+  prefecture: 福島県
+  visited: false
+----------------------
+ID: 5c55468f-48c5-4b56-890f-a54eec023cfc
+  name: スマーク伊勢崎 2階 あかぎプラザ店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: 5c707270-735f-4e35-b2d3-39f72d9c7d39
+  name: 渋谷サクラステージ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 5c8fa9d0-7615-41a3-855f-77055f1d4e80
+  name: 水戸50号店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 5c910758-293e-4009-81d0-900ac5c94f4b
+  name: よみうりランドHANA・BIYORI店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 5cd7db63-76c7-4546-9efb-ea693aab5a71
+  name: ホテルグランテラス 仙台国分町店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: 5d1e7ea7-4aca-4d96-a82f-a7da46dff783
+  name: 市原店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 5dba9f30-8039-49b9-8f3d-88ecbdcfd02f
+  name: はなふる恵庭店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: 5dc2eb90-81c8-47fb-a947-968d8b8351d6
+  name: 西武東戸塚S.C.店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 5ddc3a5e-ee17-4279-a7cd-48a245bb6f2a
+  name: 仙台泉パークタウン タピオ店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: 5e23f3a2-ccbf-4938-93b2-6be2682ad7ca
+  name: 勝どき店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 5e95d199-f28a-47be-abf0-adf76beb85c0
+  name: エトモ中央林間店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 5ece3ba9-06dd-4fb0-b992-b8e22fdc831a
+  name: 西那須野店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: 5f7bb462-7b0c-40a5-bf28-c69a98121f3d
+  name: 山形エスパル店
+  prefecture: 山形県
+  visited: false
+----------------------
+ID: 6071c21d-833d-4a28-9d1f-615ab65ab862
+  name: 神栖店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 60a30aa8-a204-44bc-bff2-c526a478ddb4
+  name: さいたま新都心店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 60d2ea63-6063-4f43-9527-df4ec6fb5ff6
+  name: 赤坂インターシティAIR店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 60e3c1bb-40a4-4b27-9b30-cab8d1598bd7
+  name: イオンモール川口前川店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 6160c45e-fac5-4989-8d51-f2718f2a7722
+  name: 泉中央セルバ店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: 61e58bac-4176-41f9-908b-49dd8e532408
+  name: 千葉長沼店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 6205c8ce-d3f2-48be-9e62-07b3cf38d6d1
+  name: 天童鎌田店
+  prefecture: 山形県
+  visited: false
+----------------------
+ID: 620a0743-12ec-46af-97a2-a970437abc60
+  name: 西武高田馬場駅店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 620abec8-2ec2-4dae-b9b7-3d657e854d3a
+  name: アピタテラス横浜綱島店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 623834ed-84d1-4ded-b0b1-7e326733f2d2
+  name: 三郷中央店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 62bf41e3-fd75-4fd9-a111-d3affcf5e371
+  name: 飯田橋サクラテラス店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 62ec3377-7292-4d88-b477-12c7e4ddbe0b
+  name: お茶の水村田ビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 62f2975b-54d2-418a-a776-eaf909c32da6
+  name: 中野セントラルパーク店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 63180d30-9080-47dc-a393-283e5709a321
+  name: 郡山モルティ店
+  prefecture: 福島県
+  visited: false
+----------------------
+ID: 641435df-51d9-4293-92cc-d2bbe08956dc
+  name: 多摩野猿街道店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 643a1f26-320d-42cb-a7f3-a7eddcabd25b
+  name: さいたま新都心 コクーンシティ コクーン1店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 64f398d1-ad08-4c07-b618-a502ff105be3
+  name: イオンモールむさし村山2階店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 65074fed-1021-4e50-91f0-dfaba1e4780b
+  name: 早稲田大学戸山キャンパス店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 6518d4e1-7149-4aa0-89a6-48e39a1e37d6
+  name: 上越店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: 6521088d-82bd-4afd-94d5-1a58a85f6bdf
+  name: ペリエ千葉店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 65517961-da3c-4751-b95f-a07366faef36
+  name: 道の駅みのりの郷東金店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 65e6ffd7-b0dc-4380-a1e1-aa6cc05814ec
+  name: 世田谷ビジネススクエア店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 66112d82-8686-452e-889f-5e64db7fdb9d
+  name: ららぽーとTOKYO-BAY　南館店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 6627dfa9-544e-40d5-8fe8-97a94f2b71f4
+  name: 鎌倉店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 6636d0e4-1733-4e75-a961-a510f9f59173
+  name: 駒沢1丁目店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 663fdfa0-8a08-4e02-b616-2411d2c5b891
+  name: 相模原共和店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 664c4aab-5d15-48fe-8016-2af95dc0c193
+  name: 宇都宮イトーヨーカドー店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: 66b674fa-05ca-459e-8b25-87a22c9bab9e
+  name: 上尾壱丁目店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 66dc4db5-547f-487d-bb94-f38f5c770026
+  name: 横須賀大津店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 67276beb-da59-4901-b888-0d733db2d3bf
+  name: コレド室町テラス店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 67404ba8-f434-41ac-8a3b-2c38d528435a
+  name: 土浦店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 6805c048-7eb8-4ba9-983e-b5a27db67255
+  name: けやきウォーク前橋店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: 680e6660-3e36-4794-95f8-4461d87795ba
+  name: イオンモール北戸田店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 682dc775-9a1b-4001-8754-dd52af710fdd
+  name: ひたち野うしく店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 684096cf-264e-4520-b93c-3b05059e3cff
+  name: 越谷イオンレイクタウン kaze 2階カフェプラザ店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 684143ab-887b-45a5-b17b-26fb0f6bc2f2
+  name: 日本橋スルガビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 6882974f-0c66-4448-ac08-392a60c9c370
+  name: 新宿サブナード店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 68adef21-e12d-492b-be37-2c1ec269f6d3
+  name: 柏崎穂波町店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: 68d92771-fb62-4dbd-a9fa-351beb8b3ef8
+  name: 東銀座店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 68f0c6d1-aae9-4e74-8ea7-356b7454003d
+  name: アトレ亀戸店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 690a796d-985e-406a-96b2-866b812aab1f
+  name: 青葉台東急スクエア店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 695fc846-58d9-477a-854d-ccd35bdd5eb5
+  name: 恵比寿ファーストスクエア店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 6997f0cc-96d0-484a-9994-df74f949ce83
+  name: カインズ会津若松店
+  prefecture: 福島県
+  visited: false
+----------------------
+ID: 69bb630a-f7ae-4bf2-9c9f-d32196f04173
+  name: 埼玉医科大学国際医療センター店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 69c2c749-2e1e-41a0-a9db-a30bd6c41bd3
+  name: 杏林大学病院店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 69ce60cd-341b-4956-8cfa-6d6aa97b8d51
+  name: 山王パークタワー店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 6a23c690-24a4-4dda-af4d-669925b4d6f7
+  name: さいたま南与野店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 6a78462c-be79-44d2-9b39-be6e1c398fa8
+  name: 上里サービスエリア(上り線)店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 6ab5f822-8dec-41d9-bde8-51a6e2225860
+  name: 葉山店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 6ad0580d-f8f6-498a-8872-6a756b3cca4b
+  name: 飯田橋アイガーデンテラス店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 6ad0c2d2-7dd6-4780-85bc-555c59315019
+  name: 大船ルミネウィング店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 6ae723f2-99b8-49d4-9e4b-ccc2d04178b5
+  name: 日比谷シティ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 6b0f6c64-4ecd-4614-948a-370dd04d9db5
+  name: 函館ベイサイド店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: 6b61c253-bec6-4772-97da-f53088ab3995
+  name: TSUTAYA BOOKSTORE AIZU店
+  prefecture: 福島県
+  visited: false
+----------------------
+ID: 6c1d86f4-9af6-45e3-855c-69d21c50aa00
+  name: ヴァル小山店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: 6c2f2301-e598-4d70-a7a2-3940b18ff35c
+  name: Olive LOUNGE 渋谷店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 6c45a622-c74d-4dbd-98ff-eb716b19b198
+  name: 愛宕グリーンヒルズ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 6c6b25db-0ab4-4c5f-ab7c-83a3406e61e5
+  name: 千葉おゆみ野店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 6cac13ad-4ea8-4091-8996-52ff21974aca
+  name: イオンモール盛岡店
+  prefecture: 岩手県
+  visited: false
+----------------------
+ID: 6ce78f70-ecf9-4d1b-a043-62358faba035
+  name: 大同生命札幌ビル ミレド地下1階店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: 6d07aa9a-6463-4ea0-9b52-cc71db93ae00
+  name: 長岡七日町店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: 6d8cce31-2a15-4fac-9069-3ab191dd420a
+  name: 横浜ポルタ店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 6dc8c1d4-7669-4b21-8293-b446348a51e6
+  name: 高田馬場早稲田通り店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 6df4e126-ff75-4b53-8c1e-281556a048bb
+  name: イオン札幌桑園店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: 6e22bf12-afa0-4494-b537-e936b98cd8cb
+  name: スマーク伊勢崎 1階 はるなプラザ店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: 6eb3d594-a420-491c-a168-84045a2dcbfb
+  name: 丸の内パークビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 6ee5ebe5-85b6-46e3-9f55-624bb7e9daf3
+  name: 仙台台原店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: 6f039383-5eee-4682-8d6e-33912deefae3
+  name: 新潟万代シテイ店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: 6f75db04-1361-4bba-bdff-cd12a8c7c1c0
+  name: 新橋駅前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 6fd908a6-60f4-4da3-8c6d-d27da2322d77
+  name: 茂原店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 700156ef-ce9b-4c10-938f-02693cb4fb6d
+  name: 長岡宮内店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: 700f4787-5d76-4d81-b87d-e2dc86302534
+  name: 六本木 蔦屋書店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 702df6bc-10bc-48c6-9116-0e58ad047986
+  name: 小山店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: 70336558-b576-46b7-8c3c-1318bfdd64c4
+  name: 虎ノ門２丁目タワー店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 70e1e6c3-2e3e-4f76-b179-097071abfc7b
+  name: 東京ミッドタウン日比谷店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 71a1aecc-d208-4674-b935-cb34a5448b05
+  name: JR東海 品川駅店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 71ab4d23-de79-451e-b6fe-3e50a530e197
+  name: TSUTAYA 南古谷店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 7214e3d7-1707-4b70-b54f-0b25a613d259
+  name: 西武本川越駅店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 7246adb1-534d-4dfa-8883-96a466cd4d31
+  name: ザ・モール仙台長町 Ｐａｒｔ２店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: 72721277-980c-4a1f-ad85-408af4a1ad54
+  name: 横浜鶴見店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 72ad668d-ff13-4425-9d90-b9f68034f46b
+  name: 有楽町メトロピア店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 72fd6462-feb6-47f2-8545-6f22e17c2b08
+  name: 渋谷３丁目店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 733effe4-9316-431e-8fe3-0a89791007f3
+  name: 函館美原店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: 73b9c1fa-721f-4b24-8ed4-0390ace07820
+  name: 大宮宮原ステラタウン店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 73e193f4-9c24-4be3-8ac9-159013a089d6
+  name: 錦糸町パルコ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 741e1a52-b704-484e-acda-0e4db334ed9d
+  name: 中目黒 蔦屋書店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7429831b-ab4c-4559-80a9-eb4ac2bef596
+  name: ミーツ国分寺店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 74cb7887-17e8-40c0-9288-1851dece3d2b
+  name: 盛岡菜園店
+  prefecture: 岩手県
+  visited: false
+----------------------
+ID: 756fa6dd-b14c-4181-a7ba-975106ee3b1c
+  name: 柏 高島屋ステーションモール 6階店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 757a6d2b-c64c-4089-8cc1-1229d6f21df0
+  name: 池袋ショッピングパーク南館店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 759f4c6a-0134-4265-b727-8368200c4a90
+  name: サザンスカイタワー八王子店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7671aa43-8c8c-47d4-a166-7d563895975d
+  name: 上野マルイ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 76c097b6-472a-4630-b8d3-3ae1d531fcf4
+  name: ららぽーと豊洲 サウスポート2階店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 77279aa5-3b22-4c69-aaba-e5dec5db41ae
+  name: ルミネ北千住店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 77c96716-816e-4abe-a3cb-a8cfdeb21d0c
+  name: 代々木店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 77cfdd01-ced7-4348-b510-091e1ae0873c
+  name: TSUTAYA BOOKSTORE 弘前ヒロロ店
+  prefecture: 青森県
+  visited: false
+----------------------
+ID: 78071163-1d1f-497a-abb3-c68e93d442a6
+  name: ららぽーとTOKYO-BAY　北館店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 783c1bc1-c06c-4d53-965e-8588ac16442a
+  name: 川崎モアーズ店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 7857f40b-2eec-4244-8a59-15bd49947e21
+  name: エトモ綱島店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 78645e81-60c0-4a53-8d82-1151121b8975
+  name: 武蔵境イトーヨーカドー店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7891c282-e317-44e9-9d3c-e317b5b3f442
+  name: イオンモール天童店
+  prefecture: 山形県
+  visited: false
+----------------------
+ID: 78e63975-fd6b-474f-84c3-ebce06ad05fc
+  name: 新宿三井ビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 792d5692-91aa-4454-b327-c8dcc5c6b0dd
+  name: 新丸ビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 79324bdb-b571-4270-9683-b7474ccc8e3e
+  name: そよら横浜高田店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 794b314c-53a3-4801-ae63-5c32ffb5df9d
+  name: 大泉学園ゆめりあフェンテ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 79b00d51-01dd-476f-87cf-810c7a346b93
+  name: 葛西駅南口店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 79c15dc3-89de-4e84-8c6a-d3cd60207dad
+  name: 南町田グランベリーパーク店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7a28ba32-4d22-4c64-a9b5-233d6dba94e2
+  name: 常陸多賀店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 7a421507-9283-47db-9d6c-41bc730771a0
+  name: 南青山骨董通り店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7a9c3c8b-1aa4-4ddf-aa21-4ff570669798
+  name: シャポー市川店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 7ab3df16-10df-4cf0-ba34-1ff51d770bab
+  name: 新宿御苑店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7acd0c39-b25d-48b2-82cc-259d0a81cf6a
+  name: オーシャンゲートみなとみらい店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 7afb2c24-78a9-47ec-8b5f-f39c981080fe
+  name: 表参道ヒルズ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7b199739-602a-4ef2-95ba-70b4371d9993
+  name: 札幌アピア店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: 7b49f740-0372-4b62-b468-56f2d64865fa
+  name: 西新宿三井ビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7b7a9e0c-9ba8-4c45-91a9-efebb5d4a42f
+  name: 淡路町駅前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7b9569c5-d741-4c32-82ec-94e5c8bc0bed
+  name: 稲城東長沼店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7bad370e-9cc5-485f-9d21-f390bb70666a
+  name: 日野万願寺店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7bf9531a-f04d-4863-b154-d6d6c3ee7505
+  name: ららぽーと立川立飛店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7c24295c-31b0-40ed-80f5-3f4be58a1029
+  name: イオンモール下妻店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 7c4d37c9-e0d7-4eef-a3d3-0784827dca6e
+  name: アリオ市原店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 7c8718b3-eeb7-4f88-8529-fd6f0750db1b
+  name: エトモ祐天寺店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7cbbadf3-8f00-48e5-86ff-258c4696ad0f
+  name: 東京駅八重洲北口 東京ギフトパレット店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7cda1847-f3f8-49e1-bba6-f2936766d52b
+  name: イオンモール太田 レストラン街店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: 7cfbc24b-4646-4645-b624-d9e0ffa1e8ad
+  name: TSUTAYA 鶴ヶ峰駅前店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 7cffc702-196e-4bf4-9e74-57ff84ce3812
+  name: 福島県立医科大学附属病院店
+  prefecture: 福島県
+  visited: false
+----------------------
+ID: 7d892aa7-db94-419f-bf1b-634123826740
+  name: イオンモール羽生3階店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 7dee3237-07c5-4fad-bfcc-fb398c3a6628
+  name: Olive LOUNGE 下高井戸店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7e15c0cd-5563-4857-9078-105c0f3f968d
+  name: イオンスタイル赤羽店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7e39f197-4343-4d45-9697-791c846ab8db
+  name: 宇都宮ゆいの杜店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: 7e3f8545-35a3-4753-9c75-84445f346f80
+  name: 真岡店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: 7e690e8f-6414-442e-881e-8f5e9eee7a87
+  name: イオンモールむさし村山1階店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7e795c62-d3cb-485a-b558-e92527b80be7
+  name: TSUTAYA BOOKSTORE 海老名店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 7f510e5f-946c-408c-ad2b-5997738b14b4
+  name: JR池袋駅 西口店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7f6cf859-5766-403d-b49d-42f3e5a2d7df
+  name: 東京スカイツリータウン・ソラマチ西1階店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7f952f08-48a5-481b-b426-f0e9dc9c248f
+  name: JR新橋駅 銀座口店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7fcfcc19-af00-410a-9c64-50302cf82943
+  name: アトレ上野店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 7fe81e9e-423e-46c6-a55f-c0f0113ba7e6
+  name: 聖路加国際病院店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 804badca-4d98-489f-afb9-4820817abecd
+  name: イオンモール浦和美園店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 8052b471-a8be-4e44-aa8a-c758fa8ae0ac
+  name: TSUTAYA BOOKSTORE 東雲店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 81038710-4141-45ad-826f-0fdfae8b6d22
+  name: よみうりランドグッジョバ!!店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 81739c1a-bb28-4772-b14a-4956303c1682
+  name: 友部サービスエリア（下り線）店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 817f8a97-7418-45f2-8e3f-94595003c100
+  name: 御茶ノ水ソラシティ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 82125be9-e253-4c9e-a071-12bb42c27cfc
+  name: ふじみ野亀久保店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 823b493d-1ff5-4bba-8ebb-03031a3c0c28
+  name: 香取佐原店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 82af8071-0ace-4bf4-9e85-067971a7eebb
+  name: 横浜ジョイナス店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 82c48d87-f06b-4d9e-97d9-6acd6008cd4f
+  name: 飯田橋メトロピア店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 82fc9eac-93f4-4f1f-a031-d23ef42926ca
+  name: トリエ京王調布店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 8357d931-f740-4c56-8ba8-07f70280f923
+  name: 柏 高島屋ステーションモール店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 835c9045-402a-4d2a-bb74-00ad2e5a0b68
+  name: イオン海浜幕張店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 8374b8e0-9c19-4daf-b4a9-9c22faab4987
+  name: 渋谷ファイヤー通り店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 83a485dd-ef24-4477-8663-6135b2e4e644
+  name: 西東京新町店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 83ed1aee-e2a9-4210-a871-6411517ddf74
+  name: 汐留シティセンター店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 8427a475-a29f-4a1c-b593-c74c90fe06cb
+  name: 新潟亀田店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: 84c36465-f13a-401c-8d23-62b24adddbbc
+  name: 上里サービスエリア（下り線）店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 8513dca3-2c44-4e9e-934e-8b75154d7e8a
+  name: 東京スカイツリータウン・ソラマチ東6階店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 859470e7-d188-492b-8e59-a8b1be671f46
+  name: ペリエ海浜幕張 PARK SIDE1店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 85ab6538-ee08-4d3e-8102-58c42cf68ebc
+  name: アトレ川崎店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 85d0fe06-6b57-419b-b2f2-bd6caa6f414a
+  name: イオンモール幕張新都心エキマエ店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 85fc3cb8-81fe-45c8-8640-0172f5f28bc0
+  name: アリオ西新井店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 86452f63-3381-48fa-a284-f7229f071dd1
+  name: 麹町店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 864b00cc-cabf-412c-9525-2245b8168dd6
+  name: 武蔵小杉北口店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 8654aefd-deab-4f34-be26-85703f76a823
+  name: 錦糸町テルミナ2店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 868ff71c-1acb-4039-992c-fd42f8ebd340
+  name: 新潟マルタケビル店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: 86985f64-b78d-4884-a182-5ca10c2f38a7
+  name: 都筑パーキングエリア（上り線）店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 87040350-53f9-487d-9399-e943ebdef669
+  name: 札幌北野店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: 8753deda-ff63-495f-8216-85a109d70a69
+  name: 筑波大学中央図書館店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 8789f59d-9610-409f-8095-0c2aaa776b7a
+  name: TSUTAYA 仙台荒井店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: 87a250e7-dea2-404a-a176-468bc52bece2
+  name: ビーンズ戸田公園店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 87de9606-6587-462c-9a6c-87dffeaf913a
+  name: イオンモール成田店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 88008a03-55c6-4263-a0fb-c31ec2140696
+  name: イーアスつくば店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 88172a8a-033a-4c10-8d9a-ad5f4d550111
+  name: 盛岡西バイパス店
+  prefecture: 岩手県
+  visited: false
+----------------------
+ID: 8831b554-026d-4c56-a538-7ac86614e82c
+  name: グランツリー武蔵小杉店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 889f762c-fe1b-445d-a3d4-44c8ac3fc579
+  name: つくば店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 88bc25f2-36e2-4c9e-8df9-b76567ad53f7
+  name: 大手町プレイス店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 88f0178f-f1df-41a9-adcf-3c5a044dd2fc
+  name: TSUTAYA BOOKSTORE ゆめが丘ソラトス店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 897ed706-4281-41bf-9df9-f5986c512ce0
+  name: ルミネ川越店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 899e811c-12df-400e-8172-1c0618891985
+  name: 札幌西町店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: 8ac546fe-e419-44fe-be43-5012195ea74c
+  name: イオンタウン守谷店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 8acc2dca-f3b2-4797-85b0-3469b2fc3269
+  name: MONA新浦安店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 8b1c35c6-a8e6-4ea0-a84d-04868003d89b
+  name: ミスターマックス湘南藤沢ショッピングセンター店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 8b41f094-08d8-4462-9dc3-27ac792d0efe
+  name: 秋田保戸野学園通り店
+  prefecture: 秋田県
+  visited: false
+----------------------
+ID: 8be88500-9780-4c94-a175-bdc314f88076
+  name: イオンモール名取2階店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: 8c2618ff-873a-42d4-89b3-10b50b2672e0
+  name: 蔦屋書店 港北ミナモ店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 8c6576b0-4399-413f-8d9e-6354f011926b
+  name: 福生西友店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 8c6b6152-1b2b-4358-9b01-1d4dd60b8a95
+  name: 学芸大駅前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 8cc89b43-1719-4812-9ec8-2aafc7a7fd0b
+  name: テラスモール湘南店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 8cdfb9f4-32f5-49e3-8c7b-fc4b1ad660b6
+  name: 獨協医科大学埼玉医療センター店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 8cf65d15-e4e9-43e4-8c58-f3206b496172
+  name: つくば学園の森店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 8d1aa396-3c2f-422a-807c-eca906871502
+  name: 大同生命札幌ビル ミレド2階店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: 8d3162a4-1ca6-4703-b7e5-d590bf3bd804
+  name: ヨドバシ千葉店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 8d8b730a-5b74-4f55-a9c4-a95ce93c2c06
+  name: アコルデ代々木上原店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 8d8d5d87-bac3-4478-9c82-219a061632aa
+  name: コレド室町2店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 8df046bf-f951-4f24-ba50-ba8674cb92ca
+  name: 北の丸スクエア店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 8e44b3e1-0af8-4d86-b3a1-11852f9912a4
+  name: 二子玉川 蔦屋家電店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 8e912ce4-d5dd-4737-a4a8-8b15485b1c4d
+  name: 佐野サービスエリア（下り線）店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: 8eb0002f-3e65-4b2c-8da7-12f573276f76
+  name: 横須賀モアーズシティ店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 8f39116e-581e-4052-806f-1c929a591662
+  name: 小田急相模大野ステーションスクエア店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 8f68b751-edfb-4b3d-bd0d-843517322831
+  name: 大宮マルイ店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 8f8290a0-24ca-4b84-9776-096141af36c8
+  name: 京橋エドグラン店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 8fc314cc-e5ad-461c-80c5-e0a8335c12a3
+  name: 仙台パルコ店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: 8fd32bac-3b7f-4d99-8925-c0dc1b19cd72
+  name: 帯広稲田店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: 8fed0835-4a96-4377-8476-510758221bad
+  name: 池袋西口店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 900e376b-90b1-4846-82a7-d34b82a37763
+  name: 平塚ラスカ店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 906d093b-f201-4187-8749-62fbc3cfff93
+  name: アトレ大船店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 90cf169a-8dff-4adf-90fa-4cba61571e5d
+  name: 横手店
+  prefecture: 秋田県
+  visited: false
+----------------------
+ID: 912b17d4-7900-4695-97c0-8a28bc5e0699
+  name: Olive LOUNGE 鶴見店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 9183d149-695b-48d3-b039-82996ab43291
+  name: 郡山コスモス通り店
+  prefecture: 福島県
+  visited: false
+----------------------
+ID: 91999c26-c707-4770-b030-3bb73a53a680
+  name: 川越鐘つき通り店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 91f685c1-2268-4189-91b1-79d95c342505
+  name: 港北ノースポート・モール店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 92295af3-badc-4d93-910d-e8a3719d0337
+  name: 海老名中央店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 9241e144-2610-4976-9b82-5cc29defcd1c
+  name: イオンモール札幌苗穂店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: 92444236-78b4-429b-8b54-0437d87abcb3
+  name: 北仲ブリック＆ホワイト店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 92c18d4b-45c8-4719-9303-4f953ebb8f18
+  name: 仙台南町通り店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: 93ed3bc3-6a35-4d73-aa3c-01f160845a59
+  name: ジョイナステラス二俣川店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 93f1c5be-34ce-4e9f-b700-c5e011ffde32
+  name: お茶の水サンクレール店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 9454f821-694b-4131-875f-9c5d6db1dc72
+  name: 八王子オクトーレ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 945926e4-8d43-48f2-b9d5-549dd170fcb1
+  name: 高崎貝沢店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: 94bc3166-e788-4ff8-bf58-1440ae9d7093
+  name: TSUTAYA BOOKSTORE 渋谷スクランブルスクエア店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 94c6dedd-2ec6-4f9d-b511-123759bebf24
+  name: 町田パリオ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 94f8290c-ad8f-403f-8100-0705e8dee0e2
+  name: ミーナ津田沼店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 9525bdee-5f78-4b5f-94fe-002b25bbb82f
+  name: 新大久保駅店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 95614566-164f-4875-b4d6-3fb163e8aa80
+  name: 飯田橋サクラテラス 2階店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 95d58477-d79e-41b1-94b4-71d36a9b7abf
+  name: 横浜モアーズ8階店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 9623dd13-26c2-48d1-b57f-f8bdf9df0006
+  name: 茅場町店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 96289eb4-5d7f-4e9a-9b21-85ebafa078d3
+  name: ららぽーと豊洲 シーサイドデッキ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 962e5454-b1e3-424d-96e8-1e485f0d8367
+  name: 東京汐留ビルディング店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 963d15af-4af5-4e25-a906-4ea72d9c0ec0
+  name: 北里大学病院店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 969cf6f8-dca3-4d2f-a4b1-640c82f11d05
+  name: 渋谷cocoti店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 96a0f8cc-2473-4853-b51f-d1b7f23aec4b
+  name: 直江津店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: 96a5c72b-3b15-42a4-960c-244cf10ce222
+  name: カメイドクロック店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 96cda974-894c-4c44-8cf7-84ae7f663829
+  name: 成城店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 96f49634-135d-4702-b54d-7d121e200463
+  name: 浦和 蔦屋書店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 96f5e93a-a20d-491d-af56-d19d3ba6d84c
+  name: 新潟新津店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: 97043a99-e97a-4a26-9256-9c3867fb07de
+  name: 越谷イオンレイクタウン kaze 1階店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 971b7ab6-643d-4501-9359-6b029fdd840e
+  name: 新宿新南口店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 971fc93f-ce30-4dd7-bed6-a85671693f01
+  name: 蔦屋書店 多賀城市立図書館店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: 9776a716-b47a-4668-8358-d8e26fce4f97
+  name: エキア北千住店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 978b3346-6dbc-4b21-af22-f2166b5cd483
+  name: 横浜公園店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 97f6018c-f9b9-4f8c-982e-509bccf0b0a1
+  name: 日本大学板橋病院店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 9852545a-3b8b-4211-935d-fa61b03a839d
+  name: 板橋蓮根店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 98596c2c-125c-4c58-8fce-65c3b92ebd1f
+  name: イオン入間店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 9877f67c-0263-49fc-a5df-4fdc9cd1b424
+  name: 幕張ＷＢＧ店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 987a6bfb-7ab6-4d52-80cb-350a61a2b6df
+  name: 川越伊勢原店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: 98b8023a-d98a-4e54-bd83-80045b627c30
+  name: 幕張ベイパーク店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 98c218af-308c-4e08-9a82-c3c012cba0b9
+  name: ココリア多摩センター店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 98f39507-1bd7-486d-9a98-880193cb0fba
+  name: 小田原Ｄｙｎａｃｉｔｙ ＷＥＳＴ店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 99181dc6-e9e7-46c8-8423-4eaf17222c23
+  name: カインズ古河店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: 991f1802-ffe0-4331-a762-a378f0cb9291
+  name: 渋谷モディ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 99257a63-c84d-41b7-9179-086d35bce7e6
+  name: 新宿ダイアンビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 99533d23-63f5-4dad-9e0a-588057711fe7
+  name: イオンモール佐野新都市店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: 99570f92-68e7-4881-9896-583c64c9ca3f
+  name: 南流山店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 99718de3-03a4-4c17-889c-e5e782175332
+  name: 湘南台イトーヨーカドー店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 99a9445c-711e-45cb-9898-6373b3d92397
+  name: イオンモール八千代緑が丘店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 99d81e78-6209-47e4-a150-63e495c20ac9
+  name: TSUTAYA BOOKSTORE 新綱島店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 9a3a2005-30e5-465d-acf6-bdc770c2825b
+  name: イオンモール柏店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 9a942d4b-e76d-4620-ac04-16d07f87a7fe
+  name: 横浜折本店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 9a9518d8-dad1-4859-b5f3-7c1237cf8911
+  name: シモキタエキウエ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 9ae07a81-b8b3-48fb-be1a-0ab1fcd3cb55
+  name: 旭川大雪通店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: 9af444aa-06b1-455c-a067-1e69f4f6a951
+  name: 大手町東京サンケイビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 9b00d859-670d-471e-a408-fa833e1631c6
+  name: アリオ蘇我店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 9b17b5d4-cb77-41c9-9fc9-1951b7861d15
+  name: 銀座 蔦屋書店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 9b266749-f2a8-4548-9070-4b3c49c48532
+  name: 東京ワールドゲート神谷町店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 9c6a843b-d7f2-4646-a810-f0c2e3cc6634
+  name: 東急プラザ戸塚店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 9ca916a0-1bcf-4c69-a90a-ffcdcfd3b0f0
+  name: 仙台アエル店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: 9cf9c6b6-e2ed-4c2a-8228-80571230276f
+  name: アークヒルズサウスタワー店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 9d598731-d63d-47e4-9627-51ebc1b3196d
+  name: 東海大学医学部付属病院店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 9d5d0b15-a5f5-41e9-ab48-4beceb02a6bc
+  name: カインズ館山店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: 9dae7f72-9a43-4c98-980e-201389d2a569
+  name: 中目黒山手通り店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 9dd84aec-4d13-4134-8a37-8371c5a40b4a
+  name: 錦糸町 丸井店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 9e49a4db-a928-46ae-99e3-94a4eaee6434
+  name: ららぽーと海老名店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: 9f3bc2ae-abe7-487f-8268-a5eb40109e7a
+  name: 白金高輪店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: 9fd7ea03-9776-466c-96b5-b65dd7de7613
+  name: キュービックプラザ新横浜3階店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: a02d2961-826f-4b62-b4c8-9649e5b664f9
+  name: 吉祥寺パルコ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a0ae1e60-fe12-4eb9-9097-f20b9fd817d8
+  name: つくば駅店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: a0e894e2-181b-4811-a363-0f94768d79b1
+  name: 東京ドームシティ ラクーア店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a0fe9c4d-b4ae-45ec-9c61-60245f4c3ae8
+  name: 雷門店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a112b43c-7e34-4219-a9c0-0cf9c8419dd8
+  name: 新鎌ケ谷店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: a168f44a-1d70-45bb-9e42-3212cb0fb0eb
+  name: 北参道店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a1885820-4db5-44ae-9ea4-22bccc03fda9
+  name: 神田駅前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a2116fe6-0395-4e84-9edc-9d0ecc957573
+  name: 水戸赤塚店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: a238f68f-fd66-4660-ad91-e949b49d95bd
+  name: イオンモール津田沼店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: a258beff-c6df-4acc-8791-ff9b62d35b60
+  name: ららテラス 武蔵小杉店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: a2618543-8f4e-4a21-acc1-3687817b05e5
+  name: 皇居外苑 和田倉噴水公園店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a26f0856-e2ec-4543-9719-fb35a435e0d4
+  name: TSUTAYA 佐野店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: a2753dff-388b-42e4-ac6c-2ee4763e3644
+  name: 羽生パーキングエリア（下り線）店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: a29a29ee-be24-46f7-993b-a1f685941513
+  name: 千歳烏山店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a2ab929a-b38f-431c-b07c-7e3f203814e4
+  name: 古川店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: a2d5f4c5-5702-4a1c-a486-dfb623065c3e
+  name: ららぽーと富士見3階店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: a321dd63-3422-438e-866f-41aaf21e99fe
+  name: 新千歳空港店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: a33a803f-d734-4330-b6e0-e07692b481c1
+  name: 仙台クリスロード店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: a342e454-848e-40bb-ae0b-d10e456f927e
+  name: 桐生市場店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: a409ac42-7d0c-420c-9bb6-b8fef291483e
+  name: 小田急百貨店SHINJUKU DELISH PARK店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a432efeb-3ab4-4729-8a17-21e3f64c8819
+  name: 日本医科大学 武蔵小杉病院店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: a43ccda8-59b7-4888-9315-4e7d1de61add
+  name: 三条東新保店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: a46260f6-f8c9-4f91-817e-3630b3f69e13
+  name: グランデュオ蒲田店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a46a3ad0-28a6-4a13-a7b5-b509b0d038d1
+  name: ららぽーと新三郷店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: a46afeb9-9af6-4a70-99a4-5a553af9fba9
+  name: カインズスーパーモールかわじま店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: a4782065-f004-4d9c-ab4b-5352d9582cf6
+  name: アクセス表参道店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a4a28037-6dd1-407d-a011-693aa0da439b
+  name: ＦＫＤ宇都宮インターパーク店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: a4d4bc02-5b18-446b-a7e8-78ec584e2f15
+  name: 仙台六丁の目店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: a4fd6298-8a1f-4014-9bcc-a847a15642d4
+  name: 函館五稜郭駅前店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: a5195c8d-497f-4765-951a-0678d1ab049a
+  name: アトレ恵比寿店(5F)
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a5466c52-1329-4f15-b752-4aca1a687a66
+  name: TSUTAYA BOOKSTORE MARUNOUCHI店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a59f25a3-9c65-4321-ae2c-4ce97d8b0084
+  name: 小山雨ケ谷店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: a5c0bb1a-601e-464d-a93c-61033dfc49ce
+  name: 九段下店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a5e657af-257b-45bc-80b7-d0f936da1027
+  name: 神楽坂下店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a6211890-fcb4-422c-b2fe-2664bee381b4
+  name: イオンモール多摩平の森店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a62b44f2-3fd4-4f41-83b2-498a1adde3bb
+  name: 三郷イトーヨーカドー店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: a68d55b0-7d47-4e81-b458-26d6d19b7b22
+  name: 柏マルイ店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: a8124cc5-5774-4484-a66d-4a6f9558a9f2
+  name: 京急百貨店6階店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: a85301d3-53ed-4b27-b705-67f789452f27
+  name: ＪＲ東海 東京駅新幹線南ラチ内店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a8b10d10-ca63-4d4d-8f0e-821c45c69193
+  name: 水道橋後楽森ビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a93127c3-992d-4053-952f-b3f30e448650
+  name: 四谷３丁目店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a9704089-0c5e-4820-ba31-4fca0741ba16
+  name: 横川サービスエリア(上り線)店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: a9e4ae19-7d3a-4e05-b692-b6e86a0c1a80
+  name: 丸の内オアゾ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: a9fc0b03-f90c-4c85-8cbe-e779efb5a5a8
+  name: 中目黒GTタワー店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: aa0c60dd-9b1f-4aac-aa6c-8e930f7b574a
+  name: ムスブ田町2階店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: aa9dec2a-f548-4411-80a0-0ee1626e6182
+  name: イオンモール富谷店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: ab25359d-5e05-4e62-a45a-e26256275004
+  name: イオンモール高崎 1階店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: ab2e4f5b-b65e-478f-a52b-e0ce165d6dd3
+  name: 新潟女池店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: ab36fae3-4ea0-4685-993c-310569f1c64a
+  name: 自由が丘店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ab902dcf-d6d0-4de8-9ef0-4374fb258b74
+  name: 新田町ビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: abadfc10-4abb-4447-aea8-57cbb553f1a8
+  name: 苫小牧末広店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: abc5b235-2ae2-43e9-a106-aefa1fab7530
+  name: 国立店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: abdf948e-9fe1-4776-ab0a-bdc7612f7d57
+  name: 東京大学工学部店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: abf6d069-a8ed-47e9-af3f-30bc9e6cee5b
+  name: 明大前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ac1d93ba-bb1d-43a0-b33e-f836a71e2de5
+  name: イオン天王町店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: ac433730-e565-4442-b795-ca903c8f7247
+  name: 太田小舞木店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: ad43e368-d997-4bee-b14a-a1b4f2436b93
+  name: 新さっぽろサンピアザ店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: ad879e2f-5502-4d6b-a103-b4e94f37dbdb
+  name: 川崎ルフロン店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: ad9b05f9-9f8b-4bd5-9918-8d6237c6f6bc
+  name: 三鷹武蔵境通り店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: adf5b41e-9701-4658-b425-0a9591ae758b
+  name: イオンモール木更津店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: ae05b8b2-3ace-4164-b0e5-49221127fb92
+  name: 港北東急S.C.店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: ae3577cc-58db-4e7e-a93c-e038a0baaab5
+  name: エトモあざみ野店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: ae7fa2e3-8c59-44d7-a127-98a1ca12e570
+  name: ルミネ池袋9階店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ae891439-61d5-4470-a647-74bfa07c8c12
+  name: 守谷サービスエリア（上り線）店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: ae8fa406-b666-4052-b6f7-f894df946133
+  name: CIAL鶴見店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: aee6e176-029b-4504-9047-c462f57d38b8
+  name: イオンモール石巻店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: aef4a80b-37c3-4aaf-9d96-f00e5f3b1e26
+  name: 都営神保町駅店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: aef4c7dd-8d8b-4b4f-99de-e05bbdd1e5a1
+  name: 横浜荏田西店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: af6775ae-1118-4a66-bff2-edfa29b3e5a3
+  name: 筑波大学附属病院店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: afe24adb-0c95-43e8-90f4-08c8daaced1e
+  name: 人形町店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: afe625a2-2798-475a-9ed3-e7a7eab4ebab
+  name: 鹿島店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: b01a5500-ff87-4d09-bf27-53db81524767
+  name: イオンモール日の出2階店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b0ad7474-f2a2-458f-829e-5a6469facd30
+  name: 自治医科大学附属病院店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: b0d90c88-44d6-4436-8632-84702a3fcd75
+  name: 帯広白樺通り店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: b0eaea92-58f1-4ce0-8cce-adf5b3ec59ba
+  name: 池袋サンシャインシティ アルパ 1階店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b0eb39b8-d231-4122-b995-5f2d2dd53bc7
+  name: 西友楽市守谷店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: b114d8af-1a37-45b7-b539-d8bbd64cb531
+  name: ベイシア木更津金田店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: b11b3569-39b5-4e2d-855a-a3f9fc8d41e6
+  name: TSUTAYA BOOKSTORE 弥生台店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: b1a0f8f5-0e9b-4a2e-b118-3d61c591560f
+  name: 守谷サービスエリア(下り線)店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: b1c4f58b-238c-4d7c-9820-ba7c8f4c5431
+  name: 札幌パルコ店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: b1eeb83b-a2e5-44ec-9b0d-2bcc6d574b25
+  name: 渋谷フクラス店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b215ca17-5e44-49c4-bc48-d469fb20f06a
+  name: 井の頭公園店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b23584c8-042b-46be-8916-4c35154af38f
+  name: 田町駅 南改札内店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b2532297-87c3-44b3-8528-92c45b7feba3
+  name: 三井アウトレットパーク入間店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: b3401827-b41f-493f-90b5-c4dbc085c556
+  name: 新横浜３丁目店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: b387b609-5e65-45f6-bf0a-5c5bbbeb9cc3
+  name: 目黒セントラルスクエア店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b42a81ad-59d7-46b3-bca7-62f6ff324288
+  name: 大井町駅東口店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b4344bc5-729d-4ffe-a63e-919bc5a2643b
+  name: 宇都宮八幡台店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: b4b5dc94-c588-4a85-ad45-c803b6c87332
+  name: 成田空港第2ターミナル到着ロビー北店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: b4deeb11-0649-4645-8aaf-276b8af4e232
+  name: ユーカリが丘店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: b5435d77-c070-4b9a-a7ee-5d0958cc7ce1
+  name: 湘南台駅ビル店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: b593cbbc-1b3a-4f38-a289-51553aa67efa
+  name: 日吉店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: b5ab67b2-2edf-4e27-8662-c85f4c4bbfc5
+  name: ヤエチカ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b5d37a8a-293b-4542-8450-292d67682a3e
+  name: グランデュオ立川店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b673b099-2546-49f1-82ea-b3a1f83187b6
+  name: 海ほたるパーキングエリア店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: b6a170d9-2071-462a-8bf8-3d35f6784aad
+  name: 千葉旭店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: b6a746d7-77c7-4ff7-acd1-d07c0a3644c2
+  name: ビーンズ武蔵中原店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: b6caa4c5-bdf6-4346-a505-6d2f16ba201e
+  name: ジ アウトレット湘南平塚店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: b6d27ad0-36a2-4375-91ba-f402595dc3cc
+  name: MIYASHITA PARK店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b72a357d-98d9-4e6a-8525-fddee2e38e99
+  name: 石岡店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: b766e3ee-790a-4b4e-9e9f-763b0a2ec4b3
+  name: ららぽーと横浜店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: b778e3d2-93c0-45c1-a0a1-be213f6e6d79
+  name: イオン南砂店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b7798e3f-584f-4bae-b179-053f78349e4f
+  name: エキア志木店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: b78fd6f8-a0e8-41bd-80d9-a847fed91aff
+  name: 新宿2丁目店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b7a172f0-291a-4721-853c-64af27939355
+  name: 大田原美原店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: b7b27636-b212-444d-8a41-dca64dca984e
+  name: 武蔵浦和ＢＥＡＮＳ店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: b7d98587-eb27-489b-bfbb-d3e1b6436bff
+  name: イオン釧路店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: b831af26-f671-489d-94f3-877511127b0e
+  name: 芦花公園店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b88a64bc-bfdb-4abf-952f-56d29353ad80
+  name: CIRCLES 銀座店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b8d4fb3e-784e-41c4-80e1-b41cc0b7ea47
+  name: 横浜ワールドポーターズ店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: b9176624-a6a9-4a28-9093-3f48b54fda3a
+  name: アトレ信濃町店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: b97cb5ce-6945-45e9-97f6-7f15dfbee795
+  name: イオンモール下田店
+  prefecture: 青森県
+  visited: false
+----------------------
+ID: b9d8f397-27d9-47e2-9e7c-df1e675056c4
+  name: 越谷レイクタウン アウトレット店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: ba9352eb-bccd-42c6-a9b5-9888135460c8
+  name: 銀座ファイブ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: baad791e-935c-4e86-bb83-0b949d9c1e68
+  name: 広尾店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bac52c10-82de-481c-bd1d-8d6b157c5f02
+  name: 海老名店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: bad53cb7-9957-4066-8252-6e308d8f8256
+  name: ゲートシティ大崎店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bb0747c9-5578-4451-84ec-68d891d50ffd
+  name: 神田小川町２丁目店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bb2fddf5-6f57-420b-bd0a-c928ddb1d892
+  name: 道の駅しもつけ店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: bb9c2104-d098-4728-b284-1078e0c0b338
+  name: CoCoLo新潟店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: bb9cc016-8070-4b52-b611-ae2c9a7f11bf
+  name: イオン秦野店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: bbeafb6d-a92f-4b31-8c55-47b0be54f71b
+  name: 晴海 トリトンスクエア店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bc0d36ba-d715-482d-bdcc-f7351cbd8a24
+  name: 池尻2丁目店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bc5629d9-dea9-47de-b7de-3fa22704599a
+  name: 仙台泉パークタウン桂店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: bca22f7f-6595-4002-bc0f-5780f8fcbc24
+  name: 越谷イオンレイクタウン kaze 2階レイクタウンゲート店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: bcb667a8-5206-49e2-8c9b-0e92be29db54
+  name: 小田急登戸駅店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: bcb8997a-bc71-4514-ad1a-5aee8dd3e94d
+  name: 池袋明治通り店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bd19b40b-9af9-47e2-94b6-167477de59d9
+  name: 高崎オーパ店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: bd2fa05a-722d-41e4-95a3-c921731f42ac
+  name: ひたちなか西光地店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: bd7252a5-7a0d-4d0c-b0d5-9b4984725dc0
+  name: エキア竹ノ塚店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bdabb463-b5a9-4116-a429-ec19a24f87fa
+  name: トレッサ横浜店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: bdee706c-105c-4938-99a5-4cc4296867f7
+  name: 高崎大八木店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: be373e8c-7b2e-4cb4-8948-0afb25104f7c
+  name: 水戸エクセル5階店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: be737544-cd6a-4693-adc3-dc105dc57e34
+  name: スターバックス リザーブ(R)ストア 銀座マロニエ通り
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bed3631e-3967-4efb-ad7f-f5e9303cf2af
+  name: 麻布十番店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bf343d24-1c06-4130-adf4-62c5f89abd2d
+  name: 高輪ゲートウェイ駅店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bf3d1d7d-fc8b-4716-ab8a-9969ca5c3373
+  name: ダイバーシティ東京 プラザ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bf4c11ce-f5b9-4d54-9dd5-445905c0e001
+  name: エキュート上野 公園口店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bf646a15-4bd3-4d9b-87c9-c509d5de3a0f
+  name: 立川伊勢丹店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bf7bdba3-8097-48e2-b52b-cb8399aca0ba
+  name: ルミネ荻窪店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bfd0dcd3-55b4-4dc5-9fe4-35f0fdf14a72
+  name: 北千住マルイ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: bfd70902-87de-4c67-9f81-beda71414970
+  name: 中央大学店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c0073071-1189-4528-9f7a-3f96e312f6bf
+  name: Olive LOUNGE 高円寺店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c06f743b-c270-4cfb-8cf3-f0030392c7ce
+  name: 札幌美園店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: c0886bef-81d1-4433-93a1-11d2fa554f2f
+  name: 渋谷ヒカリエ ShinQs店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c08e3181-e092-42a6-84f1-ae227abb2fbc
+  name: 深谷国済寺店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: c151a666-67a7-4a67-9a2f-3a114e89a215
+  name: 新潟松崎店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: c164729a-cd1b-40ea-bea2-095e1bd3594b
+  name: TSUTAYA BOOKSTORE テラスモール松戸店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: c186b90f-ca56-48d0-a8c7-42e56d7481ce
+  name: 東急プラザ表参道オモカド店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c198ee2a-ba18-44a2-9a61-cb6e738c1866
+  name: 一関店
+  prefecture: 岩手県
+  visited: false
+----------------------
+ID: c20457fa-3841-400d-ae45-c8082e965af1
+  name: 奥沢2丁目店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c2196b3e-74df-4e0e-b17b-92ab0e09d1e2
+  name: 釧路鶴見橋店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: c23733e0-6d16-42a8-8378-4db89ac20255
+  name: 梅ヶ丘駅店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c2675c14-3a71-48d9-b466-b192014bce3a
+  name: 東京科学大学店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c332caff-cc57-48a1-9b23-9c3bb7e26a30
+  name: 宇都宮インターパークステージ店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: c3474e1e-c1be-4cdc-81ad-e12049184fc8
+  name: 虎ノ門ヒルズ ビジネスタワー店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c37553b5-5010-4dea-bb8b-73149b589a6c
+  name: グランエミオ所沢東口2階店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: c3b03154-3b4a-4aeb-b118-0feef3bf613e
+  name: 八戸田向店
+  prefecture: 青森県
+  visited: false
+----------------------
+ID: c3b39e4d-928d-4a8b-bd33-535f49217f6c
+  name: 流山おおたかの森運動公園店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: c49eda09-58ad-4a58-9a1d-2f2640e4a112
+  name: アリオ川口店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: c4d6707e-bb2e-4fb0-96b6-ae75acee0dcc
+  name: 東京理科大学葛飾キャンパス店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c4e560ad-8788-4c3d-b8dc-db5566c8b03d
+  name: 御徒町春日通り店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c51364fd-381a-4441-b3eb-7c32e2ce56ae
+  name: 所沢小手指バイパス店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: c5d3e995-b67f-45cb-b5ac-7e398d9d1be8
+  name: カインズホーム前橋吉岡店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: c62157fa-263c-4a8d-8915-036df8c17790
+  name: 経堂駅店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c6a67cac-7951-47be-b4a0-70b21222bc10
+  name: 恵比寿ガーデンプレイスタワー１F店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c70cb66f-4f50-452d-bda7-005479032c1a
+  name: 宇都宮鹿沼インター通り店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: c7aaf702-610e-44f6-9189-58f3cdf5c837
+  name: 中野通り店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c7bda4d4-b665-419b-9da8-496e09b4bf19
+  name: 三芳パーキングエリア(下り線)店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: c7e29eb7-8c44-4701-a71c-b993f14b2298
+  name: 小田原飯泉店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: c821edb0-8f10-4bb2-8adc-3b2ab6343dee
+  name: 横浜ビジネスパーク店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: c8bcbe43-ff85-48b6-9edd-9c1e2b9fe0a9
+  name: 金町駅南口店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c8bec3b6-3564-4f21-8cc5-c0cbf9b66867
+  name: 青森ELM店
+  prefecture: 青森県
+  visited: false
+----------------------
+ID: c8fba2dd-c865-49b7-bec6-df538c1c2843
+  name: JR上野駅 入谷改札前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c93384ed-6e78-44e9-9975-eb9ce356442b
+  name: 聖蹟桜ヶ丘オーパ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c9607aa1-5fae-4740-9a7c-474a5427e2d3
+  name: 飯田橋軽子坂店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c9778c9e-731f-4dbd-9f8b-5e463d328ed9
+  name: 渋谷文化村通り店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: c9940929-fb4a-47a0-95d8-330a537d1920
+  name: 千葉センシティタワー店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: c9f641c4-e580-49b5-b1ad-dd8d0e4ad445
+  name: 室蘭店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: ca321cdf-180f-4eee-8614-aef15047e864
+  name: ラゾーナ川崎1階店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: cafc0774-396c-4b58-9c9d-453c09173169
+  name: いわき鹿島街道店
+  prefecture: 福島県
+  visited: false
+----------------------
+ID: cbfe9f68-e194-450e-ad1a-44dd989195a0
+  name: 宇都宮パセオ店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: cc3ca3c5-1174-43f6-9c4a-c08d30050834
+  name: イオン相模原ショッピングセンター店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: cc4717f1-906d-4bfa-9918-593ed2e499e7
+  name: ルミネ大宮 LUMINE2店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: ccee0b86-ff98-42a2-9e7f-58806d0b5a78
+  name: グランスタ東京店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: cd8261fd-9322-493f-814e-8f7b62da2866
+  name: 新発田小舟店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: cdf25668-eba2-45b2-94da-1705d400cfa7
+  name: 東京ステーションシティ サピアタワー店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ce050142-0ee6-4fb9-8a52-a45d2ca81313
+  name: 麻布十番２丁目店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ce369574-dbd5-4c37-9d31-21f7de3ed06a
+  name: イオン橋本店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: ce41f23f-9083-4d89-a42f-adc70f206a29
+  name: イオンモール上尾店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: ce5a9b25-aedb-455a-b577-13de0368b964
+  name: ビーンズ亀有店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ce7017dc-8edf-4c57-80af-8e6d53123f5b
+  name: 桶川下日出谷店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: ce82614a-b39d-404a-be81-58e40a784448
+  name: 都立明治公園店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: cea5c2fd-0d38-4719-99ea-68dd692c85ad
+  name: ＫＤＤＩ大手町ビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ceba6711-56f8-4f32-81e2-97d4ba1344e8
+  name: 米沢春日店
+  prefecture: 山形県
+  visited: false
+----------------------
+ID: cefcfd4b-52bb-4922-909f-6aa277386d5a
+  name: 佐野プレミアム・アウトレット プレイグラウンド店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: cf035073-748f-4775-b9cf-63df6177f852
+  name: アトレヴィ三鷹店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: cf1fb73c-23b0-4837-8068-46e664766e1a
+  name: ルミネエスト新宿店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: cf886c25-728f-42d8-9e2c-97782eb89761
+  name: イオンモール春日部店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: cfa262ec-2ac7-4255-857f-cb9334445d5c
+  name: 五反田東急スクエア店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: cfaf7d01-0428-46ee-91a4-231b4540f724
+  name: イオンモールつくば店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: cfbdaeca-f5e2-4c1e-9540-dc830cdd8952
+  name: SHIBUYA TSUTAYA 2F店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: cfc1ea3d-f934-44a4-9413-cd1cd7cf9cdb
+  name: 横浜アイマークプレイス店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: d006ef8c-66bd-48aa-84b0-a294244b0b2c
+  name: イオンモール秋田店
+  prefecture: 秋田県
+  visited: false
+----------------------
+ID: d02bad60-8177-4021-b920-cb09ab8d69e5
+  name: 代沢5丁目店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d03f2713-17d3-4421-ba3b-9e56d6be2fc8
+  name: TSUTAYA 横浜みなとみらい店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: d09a9728-041c-4f1b-a8eb-d7a7083a3e94
+  name: 東京ドームシティ ミーツポート店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d0d721d6-ad66-46e0-8ffc-3cc6f5454b11
+  name: ビーンズ中山店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: d10c2c8b-b144-40a4-a9dc-5005f58b3ec5
+  name: EXPASA海老名サービスエリア（上り線）店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: d10fa2e7-38d5-41de-bed4-c48fbfd770bf
+  name: 札幌環状通東店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: d1457cce-1ca5-4521-b10a-86d68c4c2917
+  name: 大塚駅前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d17ad610-752e-4433-a1b5-83400c8baa48
+  name: カインズホーム青梅店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d17bc377-8aef-49cb-8b74-379053d89735
+  name: 東京ガーデンテラス紀尾井町店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d2aa243b-695f-4a2a-8113-b9e450decc37
+  name: 札幌旭ケ丘店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: d32b468e-bbfb-4cab-a266-a9f5e06db2f9
+  name: 神田駅南口店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d37c4ae5-edd8-461c-90d6-985a635cc625
+  name: 盛岡フェザン店
+  prefecture: 岩手県
+  visited: false
+----------------------
+ID: d3cffd8e-0e87-4e28-a4c2-0c8ef29d036f
+  name: 酒田みずほ店
+  prefecture: 山形県
+  visited: false
+----------------------
+ID: d3d1c7c3-c09d-41a1-8b12-4920b8140ae9
+  name: カインズ伊勢崎店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: d3ff0f3c-01a6-44c2-854b-77606604d68e
+  name: ムスブ田町4階店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d61bd86e-38f4-470c-94b1-52ffd7e3999d
+  name: JR柏駅 中央改札内店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: d68593d9-537f-4eed-b42e-d8ec5019d96f
+  name: シエスタハコダテ店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: d73b5930-462e-48ca-af9e-170da01b0519
+  name: 王子駅前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d756dcf9-e7c4-435d-aeb3-655e322133e0
+  name: アトレ四谷店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d77cbf52-0815-4935-83db-13439d1c4d28
+  name: 吉祥寺駅前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d789efae-756d-41d4-913f-3ba73259b071
+  name: エキア成増店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d7d86e56-e345-4968-bfa7-07f56b00e806
+  name: ニューポートひたちなか店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: d7dd1133-9a3f-4d67-9eac-d7e11d1016fc
+  name: モラージュ菖蒲1階店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: d827a5b5-de3e-4ddc-a8bb-40a53529b979
+  name: 横浜市役所 ラクシス フロント店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: d854bb44-f33c-486f-a3ee-7284430c1bcc
+  name: アリオ亀有店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d9075def-c24f-48af-bdff-b45001542c55
+  name: 新宿南口店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d9541c93-a4d9-430a-a392-99dc3fdfc69b
+  name: 大崎ブライトタワー店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d9b99657-0279-47d0-9f01-b07c1ad4ee76
+  name: シャポー小岩店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: d9fce46f-c580-4f7f-a405-4e7cb3189d82
+  name: ルミネ大宮 LUMINE1店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: dae3582d-f582-403f-b7e8-c7a6b20c6b65
+  name: 新宿中央公園 SHUKNOVA店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: db303177-e153-440c-af91-43efefa112ca
+  name: 茗荷谷店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: db4c7e08-72ef-4592-876e-5d9d6faf1005
+  name: 豊洲フォレシア店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: db54403e-de50-4685-a2a1-7f50f04b1458
+  name: 横浜ビブレ店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: dba3664b-1107-499b-9eee-19c70421bbf4
+  name: ダイエーいちかわコルトンプラザ店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: dbee7ea1-3b59-4efd-be00-85c946a2d6fd
+  name: 町田金森店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: dc0737fb-67ba-4f51-bee9-7a34564c92ab
+  name: 成田美郷台店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: dc1a2146-b129-4b70-a2f8-dd20d54e88ef
+  name: 北海道ボールパークFビレッジ店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: dc2bd547-1aa8-4b13-a263-b8ea85c0429e
+  name: さいたま大和田店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: dc794ba7-0cea-4b33-801e-e4c2f56b96a4
+  name: 清瀬駅前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: dc9acf15-0a83-41bc-8323-f1ef36d32e80
+  name: 志木駅前店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: dca86f03-a004-4a8a-a1a5-1b8d9ca5ebab
+  name: 流山おおたかの森Ｓ・Ｃ店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: dd28a66f-eb64-488f-b775-9de0112dec0c
+  name: そごう横浜店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: de07c099-70f8-4228-b3af-4d16cc2d2078
+  name: 酒々井パーキングエリア(下り線)店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: de3b9ffc-ab0e-49e6-b203-12779b29f4b1
+  name: 竹橋パレスサイド店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: de5d82bf-78f3-419b-b231-6baf3e8aef08
+  name: nonowa西国分寺店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: de70bb9d-5b52-41f1-ab0f-5b4b1d25214b
+  name: 丸の内ビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: deaac915-63b3-4448-ac2d-59e012b84999
+  name: イオンスタイル品川シーサイド店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: df5a7ff9-81eb-49a1-8cdc-d3deb6acf57b
+  name: 西五反田店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: df6e9d90-644d-43f2-a5a3-c253f05f3d47
+  name: 豊洲センタービル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: df798a78-6163-46c9-96fb-b680561e9c1f
+  name: キュービックプラザ新横浜2階店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: dfb2fc00-ec4e-48c2-a102-263a682bb44a
+  name: 北見三輪店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: dfbbcc5b-e989-4fef-b5e5-1b700c6285e4
+  name: 札幌宮ケ丘店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: dfdf2302-3f15-4e98-b399-70d9b2be6dfc
+  name: 東急歌舞伎町タワー店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e0525381-7646-4c3a-a90e-2988654c8b7e
+  name: イオンモール新利府南館1階店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: e066b263-5272-41ec-81c0-120a757fa680
+  name: 上野恩賜公園店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e07a0953-affd-45ff-ad1a-8b4ce29b27e5
+  name: アトレ大森店(2F)
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e0eb1fe5-f571-4cff-89ce-5b551213902e
+  name: イオンモール名取1階店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: e0fcccc8-ab80-470b-870a-b650c114ca21
+  name: 田園調布 東急スクエアガーデンサイト店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e22e17dd-d956-485e-b82a-88978fcfaf07
+  name: ビーンズ阿佐ヶ谷てくて店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e2801b9c-2fc3-4b52-8a8d-0c29c2ce01b8
+  name: 北上店
+  prefecture: 岩手県
+  visited: false
+----------------------
+ID: e2a5ac84-547a-4a4c-869a-00e2636a4da8
+  name: イオンモール船橋店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: e38576a2-62c7-4020-bf60-617cbce35d59
+  name: イオンモール旭川駅前店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: e3b53d48-8622-41ad-bbe5-4774616ffc0f
+  name: 北見KITFRONT店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: e3e350b9-07dd-4767-89bf-45ba32cd1e04
+  name: ＪＲ東京駅日本橋口店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e44ab529-149a-457c-95f5-c1b4a97f7197
+  name: アトレ目黒1店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e44df4bd-719f-4240-90d1-7d027e0f9e46
+  name: 新宿エルタワー店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e48093c4-56b9-4c20-b988-db67883bbd4e
+  name: 西武新宿ＰｅＰｅ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e504a619-66ea-4c22-a081-b7082eca3b50
+  name: 旭川北彩都店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: e5572d8b-1a08-49a9-af56-2a226c4e4b1b
+  name: 新宿西口店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e5956704-051a-4705-8faa-78498411ec95
+  name: パワーモール前橋みなみ店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: e5994286-22c6-4559-8b16-115dd4a8226a
+  name: 町田東急ツインズEAST店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e5c4e99d-dc66-41c6-af21-a45738974c26
+  name: TSUTAYA BOOKSTORE 常総インターチェンジ店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: e608bfe9-9742-43aa-8a5e-bdccf00ce9de
+  name: 新宿野村ビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e64c0c9f-acdd-4833-8cb2-4e920bb4037b
+  name: イオンモール東久留米店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e65fbba8-374b-43b8-ae63-3933b749c892
+  name: 本厚木店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: e683b747-0be1-4fd0-949f-9ced848a578a
+  name: 札幌ステラプレイス イースト2階店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: e6fd5772-bab4-463e-b5fa-b8f3985533f5
+  name: 弘前公園前店
+  prefecture: 青森県
+  visited: false
+----------------------
+ID: e722f945-bced-466d-8285-e1c92dc93a1b
+  name: 青森西バイパス店
+  prefecture: 青森県
+  visited: false
+----------------------
+ID: e8288857-cad7-4023-a265-5021355f47dd
+  name: 山形県立中央病院店
+  prefecture: 山形県
+  visited: false
+----------------------
+ID: e8512632-1fa6-41d6-95ee-a756710dd035
+  name: 旭川東光店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: e8d4b499-f232-4df9-a310-0b9101ddc6a0
+  name: 渋谷マークシティ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: e8f58b04-7ae5-4845-baa5-42b92b614540
+  name: 平塚田村店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: e905a27f-445a-4679-b50d-18e0b8569e1a
+  name: 横浜ランドマークプラザ店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: e9493687-b322-465d-8d42-c908f9e9754f
+  name: 成田空港第2ターミナル到着ロビー南店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: e96a2b1a-d25c-4a93-b17e-ca13c7dd28ca
+  name: 舞浜 イクスピアリ2F トレイダーズ・パッセージ店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: e97bfd5a-4726-4136-bc25-776191bbc7c0
+  name: 湾岸幕張パーキングエリア（上り線）店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: e9d07b80-1e2e-4845-8aef-de587d51f704
+  name: ルミネ新宿店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ea7de187-1120-45b7-8d9e-416ee9def425
+  name: 友部サービスエリア（上り線）店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: ea92a3c7-57f8-4d39-ab54-335e4e7d1a0b
+  name: 成田空港第1ターミナル第2サテライト店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: eaaf8f78-5232-4bff-a9e2-1bdb6352eb65
+  name: 東武久喜駅店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: eadbd07f-24ec-4aba-83b4-7c273db8b8be
+  name: ルミネ横浜店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: eb090a0b-bf5b-4d91-8d0c-998b7be6834d
+  name: 大手町ビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: eb2bdafd-685c-4198-8410-6f50c0ded31b
+  name: 渋谷パルコ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: eba8adaa-2327-49b0-856b-4f142723e400
+  name: ビーンズ赤羽店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ebd24416-3b39-4fba-a827-925dd4eaa92a
+  name: 太田西矢島店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: ebdef43f-2a01-4a01-af94-ea3c541f1812
+  name: JR東日本ホテルメッツ 目白店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ec0ff084-6056-4e96-a19a-d3bbfb3fa8e9
+  name: 水戸京成百貨店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: ec92cca0-16c2-43b9-9db8-c65d7a50af7f
+  name: Olive LOUNGE 町屋店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ec9638ac-e964-49f2-84f8-0a5c04dad44b
+  name: CoCoLo長岡店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: ece08356-8635-4f39-baa5-01492e8d0dc3
+  name: 仙台駅東口店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: ed517fb0-393f-4fff-8a3f-abf444a3d8af
+  name: 南青山２丁目店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ed59bdd3-cb14-4ea6-ac9f-568dc91a806d
+  name: 三井アウトレットパーク木更津サウスゾーン店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: edaec979-5951-4efc-9541-89befbb767b4
+  name: 京王聖蹟桜ヶ丘SC店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ee46bfc2-a402-426c-ae0d-a7e5e639a9e3
+  name: 芝大門店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ee7c0101-e107-4fc5-9fc2-c8f8a8fb84fb
+  name: 福島八木田店
+  prefecture: 福島県
+  visited: false
+----------------------
+ID: eea98cdd-f148-4657-95ed-fa81d6eb37ee
+  name: エキュート立川店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: eebcc987-c05e-4a86-a526-1a3d7d182361
+  name: おやまゆうえんハーヴェストウォーク店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: efd867a4-9eef-490e-b464-e9921ea07889
+  name: たまプラーザテラス店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: f0016980-2788-4b24-8348-7508fccb543c
+  name: トナリエキュート　つくば店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: f0123d20-8539-435e-b13b-6bb25a01fd73
+  name: 目黒店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: f0a14336-0e3c-4cf2-be87-242cfcd0bac5
+  name: 玉川高島屋Ｓ・Ｃ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: f0a44558-e8d8-4223-a519-35db93d4fef3
+  name: 関内馬車道店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: f0a6f9b5-2d1c-4180-9292-00d1315fc730
+  name: 羽田空港第1ターミナル THE HANEDA HOUSE5階店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: f151991b-a029-4060-82b7-c7a8924f5162
+  name: 池袋サンシャインシティ アルパ 2階店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: f2142987-327b-4826-a0d6-ac157aa847f8
+  name: YAMATO文化森店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: f2c09959-f9da-4ead-bd56-6b25d469bbde
+  name: 野田桜の里店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: f2d6cd38-8e6c-4784-ac50-f4f960460522
+  name: 獨協医科大学病院店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: f32fc33f-75a8-4608-8d3a-b80b6078f5c3
+  name: 道の駅グランテラス筑西店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: f36cfb15-9500-4b71-9ae2-240796bd2b1c
+  name: 中野坂上メトロピア店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: f3fd2423-392e-4b6c-bd91-d3d1bdeb8de6
+  name: 旭川医科大学病院店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: f486ac6a-b6f9-4025-8939-f324ff4b8198
+  name: 三軒茶屋店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: f51015d0-9fcc-4319-9680-39dcf8601082
+  name: イーサイト高崎店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: f584e1b2-8493-41b3-8dcd-5879aa8f16c9
+  name: 大船グランシップ店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: f5f9de33-a988-4e5c-8c73-7eef748d34e3
+  name: イオンモール水戸内原店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: f60ca60e-29d7-4f06-b296-8ffc755d3493
+  name: 渋谷ストリーム店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: f6feac2a-4de7-4d70-8981-6ad8b416f3c1
+  name: 龍ケ崎店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: f70f2fcd-138b-4b6f-8967-c7203b03db07
+  name: 仙台南吉成店
+  prefecture: 宮城県
+  visited: false
+----------------------
+ID: f767446c-408f-4f9a-a8bb-b20274da930f
+  name: エミオ石神井公園店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: f79726e6-12c0-4d67-bfb8-7d5b8e9aaf07
+  name: 市ヶ谷駅前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: f7b4574a-8b6b-4bd4-b732-671ae8c77342
+  name: 足利福居町店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: f7d31cdc-8123-4291-b425-f4374646c497
+  name: イオンモール新発田店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: f7ff69c5-fd49-4728-beb6-44ed1726b72b
+  name: ララガーデン川口店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: f821d72e-ed97-4a9f-9be5-30a0ec11552a
+  name: フレスポ須賀川店
+  prefecture: 福島県
+  visited: false
+----------------------
+ID: f83f1484-59b1-4d1f-81b8-7c6f6b222f44
+  name: ベイシア西部モール店
+  prefecture: 群馬県
+  visited: false
+----------------------
+ID: f88fc3c2-94c0-4a58-b56c-16a46e560ea2
+  name: 武蔵小山店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: f8b90df6-0456-4baf-9095-afeb46d61412
+  name: TSUTAYA 相鉄ライフ三ツ境店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: f8caba19-8de3-4779-9480-007577e0c9ba
+  name: 水戸　県庁前店
+  prefecture: 茨城県
+  visited: false
+----------------------
+ID: f98b8bb8-ddaf-4900-baab-9f7d5d953185
+  name: 千歳船橋駅店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: f9a6b1de-7892-4be8-a9e4-9f006745f798
+  name: 仙川駅前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: f9b20371-0f2f-4cf7-9f00-4a6bfd752d6f
+  name: アリオ北砂店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: fa107393-8116-4750-8370-9b273fd9be41
+  name: 京王新宿三丁目ビル店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: fa5b9070-d3cd-4f25-be41-c83a1b7e3e16
+  name: 黒埼パーキングエリア（下り線）店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: fa649661-b0db-4abf-87e7-232eb36f5bf7
+  name: 調布パルコ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: fa8fef0e-d23e-4343-b02d-9b8e056a947a
+  name: エキュート赤羽みなみ店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: fa97d438-6bdc-4e3e-b597-6d7a9bfed9e8
+  name: 青山ビルヂング店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: faba1487-51b6-45a2-9519-fcf68d03361b
+  name: 長岡リバーサイド千秋店
+  prefecture: 新潟県
+  visited: false
+----------------------
+ID: fb131dce-0fb9-48f8-ac9b-fee96950269c
+  name: 銀座EXITMELSA店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: fb38411b-1907-412e-994e-b524d8e4a478
+  name: 秋田大学医学部附属病院店
+  prefecture: 秋田県
+  visited: false
+----------------------
+ID: fb60d2ea-4990-452d-85a3-109b95ae01d6
+  name: ララガーデン春日部店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: fbe988c9-f1ec-4ffc-9764-dc71400a2096
+  name: 赤坂見附店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: fbffea70-79d7-487d-8bb2-b370e78a3dbb
+  name: 千葉中央駅店
+  prefecture: 千葉県
+  visited: false
+----------------------
+ID: fc2cbd7f-dd52-4cac-a514-6a1990a60fe4
+  name: 宇都宮城東店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: fcdc583a-04a6-4923-a4f0-6aa219e1eb9b
+  name: JR東日本ホテルメッツ 横浜鶴見店
+  prefecture: 神奈川県
+  visited: false
+----------------------
+ID: fd32faf9-9650-4826-bc1a-cb5ea9a282d5
+  name: イオンモール札幌発寒店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: fdfc5fd1-9ff9-4243-b985-af0c35da0c11
+  name: エキュート大宮ノース店
+  prefecture: 埼玉県
+  visited: false
+----------------------
+ID: fe3daa15-8a72-4622-a610-a5fd1ea83f7d
+  name: 浅草駅前店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: fe581365-3722-4bea-8d4f-026a2b93846f
+  name: 宇都宮西川田店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: fe9e0daf-f340-48ba-b01b-064ec4110c41
+  name: 札幌医科大学附属病院店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: ff02ac1d-4528-441f-965e-aa50dd1c9438
+  name: 京王笹塚店
+  prefecture: 東京都
+  visited: false
+----------------------
+ID: ff30a875-0d1a-473b-9658-e8e674d32739
+  name: ブランチ札幌月寒店
+  prefecture: 北海道
+  visited: false
+----------------------
+ID: ff386867-9936-4497-9b76-584d67c81935
+  name: 福島エスパル店
+  prefecture: 福島県
+  visited: false
+----------------------
+ID: ff7b126d-6fb3-4fee-b13b-bfd62fc6c65a
+  name: 那須ガーデンアウトレット店
+  prefecture: 栃木県
+  visited: false
+----------------------
+ID: ff868b6e-0581-4138-b30b-15b5b598576e
+  name: 新潟紫竹山店
+  prefecture: 新潟県
+  visited: false
+----------------------
