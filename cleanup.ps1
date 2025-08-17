@@ -3,38 +3,37 @@
 
 $baseDir = "D:\ドキュメント\starbucks-visited-web"
 
-# 削除対象フォルダ（ルート直下）
+# --- ルート直下の削除対象フォルダ ---
 $foldersToRemove = @(
     "dist",
     "node_modules",
     "keys",
     "CSV to JSON",
     "OriginalData",
-    "scripts",
-    ".github"
+    "scripts"
+    # ".github" は残すのでリストから除外
 )
 
-# 削除対象ファイル（ルート直下）
+# --- ルート直下の削除対象ファイル ---
 $filesToRemove = @(
     "folder_top.txt",
-    "vite.svg",    # ルートの不要な vite.svg
-    ".firebaserc", # 必要に応じて残す場合はコメントアウト
-    "firebase.json" # 必要に応じて残す場合はコメントアウト
+    "vite.svg"
+    # ".firebaserc" や "firebase.json" は残す
 )
 
-# src 下削除対象フォルダ
+# --- src 下削除対象フォルダ ---
 $srcFoldersToRemove = @(
-    "assets",      # react.svg 等
-    "public"       # src/public 下の不要 index.html
+    "assets",
+    "public"   # src/public 下の不要 index.html
 )
 
-# src 下削除対象ファイル
+# --- src 下削除対象ファイル ---
 $srcFilesToRemove = @(
-    "App.css",
-    "index.css"
+    "App.css"
+    # "index.css" は残す
 )
 
-# --- ルート削除 ---
+# --- ルート削除処理 ---
 foreach ($folder in $foldersToRemove) {
     $fullPath = Join-Path $baseDir $folder
     if (Test-Path $fullPath) {
@@ -51,7 +50,7 @@ foreach ($file in $filesToRemove) {
     }
 }
 
-# --- src 下削除 ---
+# --- src 下削除処理 ---
 $srcDir = Join-Path $baseDir "src"
 
 foreach ($folder in $srcFoldersToRemove) {
@@ -71,3 +70,4 @@ foreach ($file in $srcFilesToRemove) {
 }
 
 Write-Host "整理完了。必要なファイル・フォルダは残っています。"
+Write-Host "残ったもの: .github, firebase.json, src/index.css, .firebaserc など"
