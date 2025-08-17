@@ -1,16 +1,11 @@
 import React from "react";
-import { signInWithPopup, signOut } from "firebase/auth";
+import { signInWithRedirect, signOut } from "firebase/auth";
 import { auth, provider } from "./firebase";
 
 export default function LoginButton() {
   const handleLogin = () => {
-    signInWithPopup(auth, provider)
-      .then((result) => {
-        console.log("ログイン成功", result.user);
-      })
-      .catch((error) => {
-        console.error("ログイン失敗", error);
-      });
+    // Popup を Redirect に変更（モバイル Chrome でのログイン対応）
+    signInWithRedirect(auth, provider);
   };
 
   const handleLogout = () => {
