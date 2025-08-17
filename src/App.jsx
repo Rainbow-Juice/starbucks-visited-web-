@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { auth, provider } from "./firebase";
-import { signInWithRedirect, signOut, onAuthStateChanged, getRedirectResult } from "firebase/auth";
+import { signInWithPopup, signOut, onAuthStateChanged } from "firebase/auth";
 
 import Home from "./components/Home";
 import StoreSearch from "./components/StoreSearch";
@@ -21,43 +21,25 @@ export default function App() {
   const allowedEmails = ["ryu0a0t0k@gmail.com", "huckleberry104@gmail.com"];
 
   useEffect(() => {
-    // リダイレクト結果の取得（モバイル Chrome 対応）
-    getRedirectResult(auth)
-      .then((result) => {
-        if (result?.user) {
-          handleAuthUser(result.user);
-        }
-      })
-      .catch((error) => {
-        console.error("Redirect login error:", error);
-        setErrorMessage("ログインに失敗しました。");
-      });
-
-    // ログイン状態監視
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
       if (currentUser) {
-        handleAuthUser(currentUser);
+        if (allowedEmails.includes(currentUser.email)) {
+          setUser(currentUser);
+          setErrorMessage("");
+        } else {
+          signOut(auth);
+          setUser(null);
+          setErrorMessage("このアプリを使えるのは家族のみです。");
+        }
       } else {
         setUser(null);
       }
     });
-
     return () => unsubscribe();
   }, []);
 
-  const handleAuthUser = (currentUser) => {
-    if (allowedEmails.includes(currentUser.email)) {
-      setUser(currentUser);
-      setErrorMessage("");
-    } else {
-      signOut(auth);
-      setUser(null);
-      setErrorMessage("このアプリを使えるのは家族のみです。");
-    }
-  };
-
   const handleLogin = () => {
-    signInWithRedirect(auth, provider).catch((error) => {
+    signInWithPopup(auth, provider).catch((error) => {
       console.error("ログイン失敗:", error);
       setErrorMessage("ログインに失敗しました。");
     });
